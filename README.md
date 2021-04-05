@@ -1,2 +1,3 @@
-# Angular-Tutorial
-Tutorial on how to use angular
+Tour of heroes. 
+
+Recreated the tour-of-heroes tutorial for angular.
